@@ -1,0 +1,1 @@
+This is Krafft's first git project!
